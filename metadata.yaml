@@ -1,0 +1,44 @@
+_repo: Modern-ships-of-war_73887
+_version: 0.0.1
+contributor:
+  contributor:
+    agent_name: Kelley, J. D. Jerrold (James Douglas Jerrold)
+    aliases:
+    - Kelley, James Douglas Jerrold
+    - Kelley, J. D. J.
+    birthdate: 1847
+    deathdate: 1922
+    gutenberg_agent_id: '25155'
+    url: http://www.gutenberg.org/2009/agents/25155
+creator:
+  authors:
+  - agent_name: Reed, Edward J. (Edward James), Sir
+    birthdate: 1830
+    deathdate: 1906
+    gutenberg_agent_id: '52183'
+    url: http://www.gutenberg.org/2009/agents/52183
+    wikipedia: https://en.wikipedia.org/wiki/Edward_Reed_(naval_architect)
+  - agent_name: Simpson, Edward
+    gutenberg_agent_id: '57262'
+    url: http://www.gutenberg.org/2009/agents/57262
+description: ''
+gutenberg_issued: '2024-06-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73887'
+language: en
+pgterms:marc904: https://archive.org/details/modernshipsofwar00reed
+pgterms:marc905: 20200626093221reed
+pgterms:marc906: '1887'
+pgterms:marc907: US
+production_note: deaurider, John Campbell and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aUnited States :$bHarper & Brothers, $c1887, pubdate 1888.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Modern ships of war
+url: http://www.gutenberg.org/ebooks/73887
