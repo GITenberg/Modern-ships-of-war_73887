@@ -10,6 +10,9 @@ contributor:
     deathdate: 1922
     gutenberg_agent_id: '25155'
     url: http://www.gutenberg.org/2009/agents/25155
+covers:
+- cover_type: archival
+  image_path: 73887-h/images/cover.jpg
 creator:
   authors:
   - agent_name: Reed, Edward J. (Edward James), Sir
@@ -22,6 +25,8 @@ creator:
     gutenberg_agent_id: '57262'
     url: http://www.gutenberg.org/2009/agents/57262
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73887#Modern-ships-of-war
 gutenberg_issued: '2024-06-22'
 gutenberg_type: Text
 identifiers:
